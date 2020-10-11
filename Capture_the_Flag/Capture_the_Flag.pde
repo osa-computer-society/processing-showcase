@@ -1,3 +1,9 @@
+/*
+* Project title: Capture the Flag
+* Author: Jeremy Liu
+* This is a modified simulation of the real life game Capture the Flag. More information can be found in the README and in-game.
+*/
+
 import ddf.minim.Minim;
 import ddf.minim.AudioPlayer;
 
