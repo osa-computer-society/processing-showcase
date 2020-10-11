@@ -160,17 +160,18 @@ void draw() {
    textSize(15);
    text("Have fun painting",10,550);
    text("Press S to save!",10,570);
-   
-   if (keyPressed){
-     if(key == 's' | key == 'S') {
-       save = save + 1;
-       fill(255);
-       stroke(255);
-       rect(0,0,165,1000);
-       saveFrame("image" + save + ".png");
-     }
-   }
- 
+/**
+*   if (keyPressed){
+*   
+*     if(key == 's' | key == 'S') {
+*       save = save + 1;
+*       fill(255);
+*       stroke(255);
+*       rect(0,0,165,1000);
+*       saveFrame("image" + save + ".png");
+*     }
+*   }
+*/
  if (erase % 2 == 0) {                  //Erase function
    ellipseMode(CENTER);
    noStroke();
