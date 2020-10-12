@@ -1,7 +1,7 @@
 # Capture the Flag
 
 This is a modified simulation of the real life game "Capture the Flag" made in Processing by
-WOZARDLOZARD.
+Jeremy Liu.
 
 ## Objective
 
