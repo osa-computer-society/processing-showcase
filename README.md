@@ -15,7 +15,10 @@ To make a contribution:
 
 1. Fork this repository and create a new branch on your fork titled `submission-john-doe` (with your
    name in place of John Doe).
-2. Add your **entire** Processing project folder into the `showcase` folder.
+2. Add your **entire** Processing project folder into the folder path `/showcase/PROJECT_NAME/YOUR_NAME/PROJECT_NAME` folder. Although this might seem redundant, we have multiple reasons for doing this:
+   - Sorting the top level by project name helps people looking at this repository find what they're looking for. If you see a the same project with a slightly different title, please use that directory rather than creating a new one.
+   - Making a subfolder titled with your name allows multiple people to submit their versions of the same project.
+   - The deepest subfolder needs to be titled the same as your Processing sketch.
 3. At the top of the main sketch file, add a comment with the following information:
 
 ```java
