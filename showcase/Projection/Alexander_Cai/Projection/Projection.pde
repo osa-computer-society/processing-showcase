@@ -1,6 +1,7 @@
 /**
- * draws a 2D projection of higher-dimensional cubes.
- * by Alexander Cai
+ * Project title: Projection
+ * Author: Alexander Cai
+ * draws a 2D projection of higher-dimensional cubes
  * an extension of https://thecodingtrain.com/CodingChallenges/113-hypercube.html
  * use numbers to rotate
  * use e/d to +/- rotate speed
