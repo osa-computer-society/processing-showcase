@@ -1,8 +1,12 @@
-/*
-* Project title: Capture the Flag
-* Author: Jeremy Liu
-* This is a modified simulation of the real life game Capture the Flag. More information can be found in the README and in-game.
-*/
+/**
+ * Project title: Capture the Flag
+ * Author: Jeremy Liu
+ * This is a modified simulation of the real life game Capture the Flag. More information can be
+ * found in the README and in-game.
+ * This requires the Minim library by Damien Di Fede and Anderson Mills to run. You can install it
+ * in Processing by going to Sketch > Import Library > Add Library, searching for "Minim", and
+ * clicking "Install".
+ */
 
 import ddf.minim.Minim;
 import ddf.minim.AudioPlayer;
