@@ -1,6 +1,7 @@
 /**
  * draws a 2D projection of higher-dimensional cubes.
  * by Alexander Cai
+ * an extension of https://thecodingtrain.com/CodingChallenges/113-hypercube.html
  * use numbers to rotate
  * use e/d to +/- rotate speed
  * use w/s to +/- dimensions
